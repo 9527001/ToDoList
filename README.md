@@ -11,4 +11,4 @@
 #### [Apollo开放平台](http://apollo.auto/)
 #### [干货集中营](http://gank.io/)
 #### [netflix](https://github.com/netflix)
-#### [少数派](https://sspai.com/post/46954)
+#### [少数派](https://sspai.com/)
