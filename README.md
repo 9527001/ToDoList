@@ -13,4 +13,5 @@
 #### [netflix](https://github.com/netflix)
 #### [少数派](https://sspai.com/)
 #### [腾讯AI开方平台](https://ai.qq.com)
+#### [小米IOT开发者平台](https://iot.mi.com/new/index.html)
 
