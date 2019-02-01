@@ -3,6 +3,7 @@
 ##### [百度脑图](http://naotu.baidu.com/)--流程图的在线版
 ##### [MAC破解下载之XClient](http://xclient.info/) 
 ##### [MAC破解下载之爱情守望者](https://www.waitsun.com/)
+##### [有趣的app](https://www.macdu.org/apps-download/interest-app)
 ##### [腾讯电脑管家](https://mac.gj.qq.com/?ADTAG=media.innerenter.gj.top)
 
 
